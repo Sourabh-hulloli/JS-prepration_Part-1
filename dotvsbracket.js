@@ -1,5 +1,6 @@
 // difference between dot and bracket notation
 let key = "email";
+
 const person = {
   name: "Sourabh",
   age: 30,

@@ -6,17 +6,17 @@
 
 // declare a variable
 
-var firstName = "Sourabh";
+// var firstName = "Sourabh";
 
 // use a variable
 
-console.log(firstName);
+// console.log(firstName);
 
 // change value
 // re-initilization of variable
-firstName = "Sourabh Hulloli";
+// firstName = "Sourabh Hulloli";
 
-console.log(firstName);
+// console.log(firstName);
 
 /* Rules for Naming a variables
 1. you cannot start with number.
@@ -37,11 +37,5 @@ example:-
 first name (invalid)
 
 4. convention -> start with small letter and use camelCase.
-
-
-
-
-
-
 
 */
