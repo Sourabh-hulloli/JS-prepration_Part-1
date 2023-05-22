@@ -7,7 +7,7 @@ for (let i = 0; i <= 9; i++) {
 
 let j = 0;
 sum = 0;
-for (; j <= 100; j++) {
+for (; j <= 10; j++) {
   sum += j;
 }
 

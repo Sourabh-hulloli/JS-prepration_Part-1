@@ -39,3 +39,7 @@ first name (invalid)
 4. convention -> start with small letter and use camelCase.
 
 */
+
+console.log("Hello World"); // we can use double quotes ( " " ) OR
+console.log("Hello World"); // we can use single quotes ( ' ' ) OR
+console.log(`Hello World`); // we can use back tick.

@@ -22,7 +22,7 @@ console.log(typeof age);
 let str1 = 222;
 console.log(typeof str1);
 const newStr1 = toString(str1);
-console.log(typeof str1);
+console.log(typeof newStr1);
 
 // convert string to number
 let myStr = "108";

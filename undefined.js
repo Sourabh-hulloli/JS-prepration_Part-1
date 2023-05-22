@@ -22,6 +22,7 @@ console.log(myNumber);
 
 let newNumber = 123n;
 console.log(newNumber);
+console.log(typeof newNumber);
 
 const largeNumber = 12534n;
 const normalNumber = 10;

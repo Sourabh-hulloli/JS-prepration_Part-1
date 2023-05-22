@@ -14,7 +14,7 @@ console.log(firstName.length); // length will be 22 only.
 
 const newName = firstName.trim();
 console.log(newName);
-console.log(newName.length);
+console.log(newName.length); // length will be 7
 
 // or mutating the firstName variable
 
