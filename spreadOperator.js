@@ -21,7 +21,8 @@ const obj2 = {
   key4: "value4",
 };
 
-const newObject = { ...obj1, ...obj2 };
+const newObject = { ...obj1, ...obj2 }; // object2 ke1=y1 will be printed.
+// const newObject = { ...obj2, ...obj1 }; // object1 key1 will be printed.
 console.log(newObject);
 
 // want to add new key
