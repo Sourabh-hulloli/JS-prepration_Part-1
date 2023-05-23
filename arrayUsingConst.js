@@ -23,3 +23,27 @@ do {
   j++;
 } while (j < fruits.length);
 console.log(newFruits);
+
+const cars = [
+  "BMW",
+  "Ferrari",
+  "Rolls Royce",
+  "toyota",
+  "Ford",
+  "Range Rover",
+  "Tata Motors",
+  "Mahindra",
+];
+
+let k = 0;
+
+while (k < cars.length) {
+  console.log(cars[k]);
+  k++;
+}
+
+let l = 0;
+do {
+  console.log(cars[l].toUpperCase());
+  l++;
+} while (l < cars.length);

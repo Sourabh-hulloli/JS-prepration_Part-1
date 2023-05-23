@@ -22,3 +22,15 @@ let array1 = ["item1", "item2"];
 
 // let array2 = [...array1, "item3", "item4"];
 // console.log(array2);
+
+const fruits = ["Mango", "banana", "Apple"];
+
+const cars = ["BMW", "Ferrari", "Bently", "Rolls Royce"];
+
+// const fruitsCars = fruits.slice(0).concat(cars);
+
+// const fruitsCars = [].concat(fruits, cars);
+
+const fruitsCars = [...fruits, ...cars];
+
+console.log(fruitsCars);
