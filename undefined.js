@@ -17,6 +17,7 @@ console.log(typeof myVariable);
 // BigInt
 let myNumber = BigInt(9383747849843307092408423728);
 console.log(myNumber);
+console.log(Number.MAX_SAFE_INTEGER);
 
 // OR we can also write BigInt in below example
 

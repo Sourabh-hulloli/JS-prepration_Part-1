@@ -24,7 +24,7 @@ example :-
 var 1stUser (invalid cannot start with number) 
 var user1 (valid)
 
-2. you can use only underscor _ or dollas $ symbol
+2. you can use only underscor _ or dollar $ symbol
 example :-
 first_name (valid)
 _firstName (valid)
@@ -38,6 +38,8 @@ first name (invalid)
 
 4. convention -> start with small letter and use camelCase.
 
+5. keywords should not be used as a identifiers.
+`
 */
 
 console.log("Hello World"); // we can use double quotes ( " " ) OR

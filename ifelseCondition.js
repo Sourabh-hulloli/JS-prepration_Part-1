@@ -8,7 +8,7 @@ if (age >= 18) {
   console.log("User can play mario");
 }
 
-let num = 15;
+let num = 14;
 
 if (num % 2 == 0) {
   console.log(`${num} is even number`);

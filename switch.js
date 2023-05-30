@@ -1,6 +1,6 @@
 // switch statement
 
-let day = 0;
+let day = 5;
 
 switch (day) {
   case 0:
